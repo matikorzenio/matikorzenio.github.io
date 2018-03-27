@@ -16,7 +16,7 @@
 title: Mateusz Korzeniewski
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Fuck this shit. Fuck my life. I almost destroyed my laptop's keyboard while setting this up. My life sucks. Gotta hang myself brb.
+  Fuck this shit. Fuck my life. I almost destroyed my laptop keyboard while setting this up. My life sucks. Gotta hang myself brb.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://matikorzenio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattroot1616
